@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ek0y1y4wSIY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bouss\\source\\repos\\TestNocibé\\TestNocibé.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bouss\\.nuget\\packages\\anticaptchaapi.net\\1.4.0\\anticaptchaapi.net.1.4.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\htmlagilitypack\\1.11.58\\htmlagilitypack.1.11.58.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0\\microsoft.testplatform.objectmodel.17.10.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0\\microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\nunit.analyzers\\4.2.0\\nunit.analyzers.4.2.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\selenium.captchaidentifier\\1.1.2\\selenium.captchaidentifier.1.1.2.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\selenium.framessearcher.extensions\\1.1.2\\selenium.framessearcher.extensions.1.1.2.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\selenium.support\\4.21.0\\selenium.support.4.21.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bouss\\.nuget\\packages\\vknet\\1.78.0\\vknet.1.78.0.nupkg.sha512"
+  ],
+  "logs": []
+}
